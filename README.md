@@ -1,2 +1,0 @@
-# punt-partners
-frontend project
